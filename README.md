@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshxrajput&label=Profile%20views&color=0e75b6&style=flat" alt="harshxrajput" /> 
 </p>
 
-- 🌱 I’m currently learning **mobile app development**  
+- 🌱 I’m currently learning **software and mobile app development**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-lac-six-89.vercel.app/)  
 - 📫 How to reach me **harshxkumar7@gmail.com**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uS8Fu_7REEyqlyDYyTInjResrHWTZ6Pd/view?usp=drive_link)  
